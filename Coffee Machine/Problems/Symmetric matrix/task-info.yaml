@@ -1,0 +1,21 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    class Main {
+        public static void main(String[] args) {
+            // put your code here
+        }
+    }
+  learner_created: false
+- name: hyperskill-1936-test-02.txt
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/1936
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/1936">JetBrains
+    Academy</a></html>
+  time: Fri, 25 Sep 2020 09:59:02 UTC
+record: -1
